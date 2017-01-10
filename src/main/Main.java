@@ -10,9 +10,6 @@ package main;
  * @author iverson.matthew17
  */
 public class Main {
-    
-    public int i;
-    
     public static void main(String[] args) {
         System.out.println("Hello World");
     }
