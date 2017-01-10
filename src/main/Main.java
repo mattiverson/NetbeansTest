@@ -12,7 +12,5 @@ package main;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World");
-        System.out.println("new thing I just added");
-        System.out.println("Something i want to remove");
     }
 }
